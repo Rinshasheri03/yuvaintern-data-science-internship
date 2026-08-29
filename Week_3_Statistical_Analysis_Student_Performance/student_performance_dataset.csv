@@ -1,0 +1,121 @@
+student_id,study_hours_per_day,attendance_percentage,exam_score,study_hour_group
+STU113,2.54,66.3,83.1,Below 5 hours
+STU075,1.7,74.9,93.1,Below 5 hours
+STU080,4.17,74.8,75.3,Below 5 hours
+STU088,3.07,77.6,85.7,Below 5 hours
+STU098,1.8,86.0,71.5,Below 5 hours
+STU014,8.29,79.7,94.4,5+ hours
+STU102,3.88,72.4,84.9,Below 5 hours
+STU006,8.9,96.2,81.5,5+ hours
+STU106,3.94,69.3,83.4,Below 5 hours
+STU050,5.56,90.3,92.3,5+ hours
+STU114,3.47,73.3,86.6,Below 5 hours
+STU063,7.26,95.8,100.0,5+ hours
+STU042,8.33,80.9,93.8,5+ hours
+STU095,2.53,78.2,75.3,Below 5 hours
+STU023,8.88,90.5,90.2,5+ hours
+STU067,3.4,81.4,80.0,Below 5 hours
+STU105,4.15,79.4,80.9,Below 5 hours
+STU046,8.22,83.1,95.2,5+ hours
+STU081,3.76,78.0,87.6,Below 5 hours
+STU047,6.55,93.0,84.1,5+ hours
+STU027,6.87,83.1,95.3,5+ hours
+STU016,5.91,86.7,84.9,5+ hours
+STU082,2.88,76.7,71.8,Below 5 hours
+STU021,8.03,100.0,91.0,5+ hours
+STU118,3.95,72.8,82.1,Below 5 hours
+STU111,3.05,71.2,68.9,Below 5 hours
+STU060,5.46,89.0,89.3,5+ hours
+STU059,5.56,97.5,94.0,5+ hours
+STU041,6.75,85.0,100.0,5+ hours
+STU044,6.25,83.6,79.6,5+ hours
+STU083,4.27,80.7,86.1,Below 5 hours
+STU107,3.03,78.7,92.2,Below 5 hours
+STU013,7.58,85.7,89.3,5+ hours
+STU071,2.23,67.1,84.7,Below 5 hours
+STU012,8.71,82.4,83.6,5+ hours
+STU086,1.81,83.2,85.9,Below 5 hours
+STU112,2.19,75.7,91.2,Below 5 hours
+STU019,8.31,89.9,95.0,5+ hours
+STU120,3.63,76.7,82.4,Below 5 hours
+STU003,8.43,81.9,85.7,5+ hours
+STU108,2.43,79.8,65.3,Below 5 hours
+STU018,5.26,81.9,97.5,5+ hours
+STU030,7.73,87.2,94.4,5+ hours
+STU077,2.5,69.1,86.5,Below 5 hours
+STU038,6.9,98.6,94.7,5+ hours
+STU031,7.98,94.4,92.3,5+ hours
+STU052,5.03,87.8,91.2,5+ hours
+STU051,5.8,87.1,89.9,5+ hours
+STU078,3.75,70.8,78.2,Below 5 hours
+STU053,8.15,84.1,90.2,5+ hours
+STU094,2.8,67.4,85.1,Below 5 hours
+STU055,7.82,85.3,100.0,5+ hours
+STU028,5.18,85.5,99.1,5+ hours
+STU004,7.79,89.1,91.3,5+ hours
+STU034,6.48,81.8,94.2,5+ hours
+STU066,3.38,86.9,78.0,Below 5 hours
+STU037,5.52,87.7,100.0,5+ hours
+STU022,6.42,100.0,82.2,5+ hours
+STU033,6.3,87.0,86.8,5+ hours
+STU087,3.96,61.6,93.7,Below 5 hours
+STU029,5.62,84.3,93.0,5+ hours
+STU097,2.73,75.4,80.6,Below 5 hours
+STU100,4.77,88.7,82.7,Below 5 hours
+STU085,1.58,78.7,89.0,Below 5 hours
+STU072,2.89,91.2,93.1,Below 5 hours
+STU036,5.76,85.1,100.0,5+ hours
+STU011,6.48,84.2,100.0,5+ hours
+STU110,4.57,93.0,84.7,Below 5 hours
+STU092,3.87,75.3,76.6,Below 5 hours
+STU032,8.87,88.9,91.9,5+ hours
+STU017,7.22,79.2,90.2,5+ hours
+STU116,4.41,87.6,86.4,Below 5 hours
+STU002,6.76,86.6,88.2,5+ hours
+STU101,4.59,76.8,88.8,Below 5 hours
+STU109,1.83,98.1,76.1,Below 5 hours
+STU117,4.08,72.2,88.2,Below 5 hours
+STU010,6.8,80.9,100.0,5+ hours
+STU005,5.38,89.3,79.5,5+ hours
+STU039,5.91,88.8,86.5,5+ hours
+STU079,3.39,83.1,80.9,Below 5 hours
+STU074,2.3,76.6,83.6,Below 5 hours
+STU089,2.05,71.3,68.9,Below 5 hours
+STU035,6.88,78.0,91.2,5+ hours
+STU065,3.66,74.7,86.7,Below 5 hours
+STU062,6.88,89.7,94.3,5+ hours
+STU054,7.66,90.7,93.0,5+ hours
+STU096,3.64,74.1,73.0,Below 5 hours
+STU025,8.11,75.2,93.6,5+ hours
+STU057,6.84,80.3,90.3,5+ hours
+STU070,2.98,68.2,89.9,Below 5 hours
+STU064,8.06,89.3,81.0,5+ hours
+STU099,1.9,82.3,75.5,Below 5 hours
+STU061,7.67,87.3,79.5,5+ hours
+STU020,7.53,93.0,89.3,5+ hours
+STU007,8.04,93.0,100.0,5+ hours
+STU056,8.12,80.6,73.7,5+ hours
+STU076,2.46,89.7,83.6,Below 5 hours
+STU001,8.1,97.6,84.4,5+ hours
+STU045,8.33,100.0,98.5,5+ hours
+STU008,8.14,90.1,82.8,5+ hours
+STU049,7.73,93.6,93.8,5+ hours
+STU119,2.97,60.8,82.1,Below 5 hours
+STU103,2.4,76.2,63.7,Below 5 hours
+STU040,7.68,93.9,84.0,5+ hours
+STU009,5.51,96.8,84.2,5+ hours
+STU091,2.02,71.0,71.9,Below 5 hours
+STU043,7.8,82.2,95.3,5+ hours
+STU090,3.2,68.2,79.9,Below 5 hours
+STU073,4.4,91.8,89.0,Below 5 hours
+STU115,2.1,80.5,76.2,Below 5 hours
+STU015,6.77,91.8,100.0,5+ hours
+STU058,7.27,89.0,93.2,5+ hours
+STU093,3.02,85.3,91.4,Below 5 hours
+STU104,4.8,79.9,82.6,Below 5 hours
+STU024,8.57,82.1,90.0,5+ hours
+STU084,2.07,89.3,79.0,Below 5 hours
+STU068,2.53,90.3,72.7,Below 5 hours
+STU026,5.78,89.6,88.0,5+ hours
+STU069,1.6,79.5,78.0,Below 5 hours
+STU048,6.15,82.6,88.6,5+ hours
